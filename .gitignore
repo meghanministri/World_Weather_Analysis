@@ -5,8 +5,6 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 
-.DS_Store
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -35,6 +33,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.DS_Store
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
